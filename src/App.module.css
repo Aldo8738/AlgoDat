@@ -1,0 +1,10 @@
+.sorting-app {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.filter-bar {
+  width: 400px;
+  background-color: #fff2df;
+}
